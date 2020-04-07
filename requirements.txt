@@ -6,6 +6,6 @@ Markdown==2.6.5
 mock==2.0.0
 pbr==1.10.0
 pytz==2015.7
-requests==2.9.1
+requests==2.20.0
 simplejson==3.8.2
 six==1.10.0
